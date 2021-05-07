@@ -1,2 +1,2 @@
 # SubstringsGeneratingFunction
-Written in C language
+Written in C++ language
